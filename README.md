@@ -23,7 +23,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-I mostly build in the **LAB stack** — **L**aravel, **A**lpine.js and **B**lade.
+I mostly build in the **LAB stack** — **L**aravel, **A**lpine.js and **B**ootstrap.
 
 ### GitHub stats
 
