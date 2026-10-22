@@ -28,7 +28,7 @@ I mostly build in the **LAB stack** — **L**aravel, **A**lpine.js and **B**lade
 ### GitHub stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hkmjrmi&show_icons=true&hide_border=true&count_private=true" alt="Hakim's GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=hkmjrmi&hide_border=true" alt="Hakim's contribution streak" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkmjrmi&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
