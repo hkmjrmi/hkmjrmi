@@ -1,15 +1,12 @@
-<h1 align="center">Hi, I'm Hakim 👋</h1>
-<p align="center">
-  Laravel full-stack developer
-</p>
 
----
+
+<h1>Hi, I'm Hakim Jurimi</h1>
 
 ### About me
 
-- 🧑‍💻 Full-stack developer building a multi-tenant Laravel SaaS
-- 🧭 Enjoy planning work, mentoring and reviewing code
-- 📏 Care a lot about consistent code: conventions are only useful if every PR follows them
+- Full-stack developer building a multi-tenant Laravel SaaS.
+- Care a lot about consistent code and enjoy planning work, mentoring and reviewing code.
+- I mostly build in the **LAB stack**  which are **L**aravel, **A**lpine.js and **B**ootstrap.
 
 ### Tech stack
 
@@ -23,7 +20,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-I mostly build in the **LAB stack** — **L**aravel, **A**lpine.js and **B**ootstrap.
+
 
 ### GitHub stats
 
@@ -32,5 +29,3 @@ I mostly build in the **LAB stack** — **L**aravel, **A**lpine.js and **B**oots
 </p>
 
 ---
-
-<p align="center"><i>Readable code, meaningful variable names, and a reason behind every review comment.</i></p>
